@@ -4,4 +4,4 @@
 
 Profile viewcount:
 
-<img src="https://count.getloli.com/get/@:Patrixsin?theme=gelbooru" alt=":name" />
+<img src="https://count.getloli.com/get/@:Fijxu?theme=gelbooru" alt=":name" />
