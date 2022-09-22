@@ -1,7 +1,3 @@
-#### I no longer use github because is from Microsoft, and Microsoft is bad 
-
-![WIDE WITH KRITA IN ARCH GNX/LINUX](https://ii.zzls.xyz/FCJZLMI.png)
-
-Profile viewcount:
+#### I no longer use github because for my personal projects
 
 <img src="https://count.getloli.com/get/@:Fijxu?theme=gelbooru" alt=":name" />
