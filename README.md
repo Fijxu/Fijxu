@@ -6,4 +6,4 @@ More information here of articles that I agree with about their opinions
 - https://sanctum.geek.nz/why-not-github.html
 - https://mikegerwitz.com/about/githubbub
 
-<img src="https://count.getloli.com/get/@:Fijxu?theme=gelbooru" alt=":name" />
+<img src="https://count.getloli.com/get/@:Fijxu?theme=asoul" alt=":name" />
