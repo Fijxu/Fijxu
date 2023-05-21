@@ -2,6 +2,7 @@
 Go to https://git.zzls.xyz
 
 More information here of articles that I agree with about their opinions
+- [GiveUpGitHub](https://sfconservancy.org/GiveUpGitHub/)
 - https://wowana.me/blog/why-i-no-longer-use-github.xht
 - https://sanctum.geek.nz/why-not-github.html
 - https://mikegerwitz.com/about/githubbub
